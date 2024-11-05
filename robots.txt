@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikuyeuba.github.io/EjJ/sitemap_index.txt
+Sitemap: https://ikuyeuba.github.io/GKC/sitemap_index.txt
+Sitemap: https://ikuyeuba.github.io/ZUC/sitemap_index.txt
+Sitemap: https://ikuyeuba.github.io/arE/sitemap_index.txt
